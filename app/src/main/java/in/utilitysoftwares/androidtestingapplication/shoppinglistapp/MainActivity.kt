@@ -1,5 +1,6 @@
-package `in`.utilitysoftwares.androidtestingapplication
+package `in`.utilitysoftwares.androidtestingapplication.shoppinglistapp
 
+import `in`.utilitysoftwares.androidtestingapplication.R
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
